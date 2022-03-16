@@ -23,3 +23,7 @@
     └── readme.md            #instructions to operate the tracker.
 
 ## Reference: https://github.com/STVIR/pysot
+
+## TODO: add option for multiple objects:
+   * update cancelling the window
+   * add support for multiple windows
