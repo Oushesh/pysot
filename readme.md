@@ -1,5 +1,5 @@
 ## Tracker for object Detection to accelerate object annotation
-   * 
+   *
    *
    *
    *
